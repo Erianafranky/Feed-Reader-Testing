@@ -8,8 +8,8 @@ A web-based application that reads RSS feeds. The original developer of this app
 
 **Run on a server**
 
-1. Run npm install -g http-server
-2. Run http-server -o in the directory of the project.
+1 Run npm install -g http-server
+2 Run http-server -o in the directory of the project.
 
 
 
